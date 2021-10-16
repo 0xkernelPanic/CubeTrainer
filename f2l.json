@@ -1,0 +1,31 @@
+[
+    {
+        "name" : "F2L-1",
+        "imagelink" : "https://f2l.app/assets/fl2cases2/1.png",
+        "scramble" : "R U R' U' R U' R' U2",
+        "solution" : "U2 (R U R') U (R U' R')"
+    
+    },
+    {
+        "name" : "F2L-2",
+        "imagelink" : "https://f2l.app/assets/fl2cases2/2.png",
+        "scramble" : "U' F' U2 L' B' U B L F",
+        "solution" : "F' L' U2 L F"
+    
+    },
+    {
+        "name" : "F2L-3",
+        "imagelink" : "https://f2l.app/assets/fl2cases2/3.png",
+        "scramble" : "R U R' U' R U2 R' U'",
+        "solution" : "U (R U2 R') U (R U' R')"
+    
+    },
+    {
+        "name" : "F2L-4",
+        "imagelink" : "https://f2l.app/assets/fl2cases2/4.png",
+        "scramble" : "L' U' L U L' U2 L U y'",
+        "solution" : "y U' (L' U2 L) U' (L' U L)"
+    
+    }
+    
+]
